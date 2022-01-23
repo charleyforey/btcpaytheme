@@ -1,5 +1,5 @@
 body {
-    background: url(https://media.giphy.com/media/3o7WTqRKlVRj0wsYQo/giphy.gif);
+    background: url(https://media.giphy.com/media/xSvnDdn1TGEgkKutCB/giphy.gif);
     background-blend-mode: soft-light;
     background-size: 120px;
     background-color: #03030300;
@@ -34,7 +34,7 @@ label {
     padding-top: 5px;
 }
 .top-header {
-    color: #fff;
+    color: rgb(0, 0, 0);
     background: transparent;
 }
 .top-header .header {
@@ -205,7 +205,7 @@ label {
         transparent,
         white,
         transparent,
-        #1e1af7
+        #e1f71a
         );
     filter: blur(15px);
 
