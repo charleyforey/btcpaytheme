@@ -1,5 +1,5 @@
 body {
-    background: url(https://media.giphy.com/media/SsBz0oSJ1botYaLqAR/giphy.gif);
+    background: url(https://media.giphy.com/media/3o7WTqRKlVRj0wsYQo/giphy.gif);
     background-blend-mode: soft-light;
     background-size: 120px;
     background-color: #03030300;
@@ -18,7 +18,7 @@ label {
 
 /* header */
 .header {
-    background: none;
+    background: black;
     border-radius: 5px 5px 0 0;
 }
 .header::after {
@@ -241,7 +241,7 @@ label {
     background: #7b7b7b;
     color: white;
 }
-.powered__by__btcpayserver a {
+.powered__by__zeuspay a {
     color: #a9a9a9 !important;
 }
 
